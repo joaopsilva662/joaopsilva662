@@ -6,7 +6,7 @@
 
 #### Linguagens & Frameworks
 
-<img src="https://skillicons.dev/icons?i=python,javascript,java,html,css,mysql,react,nextjs,flask" />
+<img src="https://skillicons.dev/icons?i=python,javascript,java,mysql,html,css,react,nextjs,flask" />
 
 
 
