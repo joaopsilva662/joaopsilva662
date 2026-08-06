@@ -1,4 +1,10 @@
-## Hi there 👋
+# Olá, meu nome é João Pedro
+
+## Sou Desenvolvedor em formação pelo SENAI
+
+## Stackes: Python | JavaScript | Java | MySql
+
+
 
 <!--
 **joaopsilva662/joaopsilva662** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
