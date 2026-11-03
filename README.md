@@ -29,4 +29,4 @@ Tenho experiência com desenvolvimento Full Stack, utilizando tecnologias modern
 
 ### 📬 Como me encontrar
 - 💼 **LinkedIn:** [linkedin.com/in/SEU_LINKEDIN](https://linkedin.com)
-- 📧 **E-mail:** `silvaprofissional44@gmail.com` *(Substitua pelo seu e-mail)*
+- 📧 **E-mail:** `silvaprofissional44@gmail.com` 
